@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shashank Singh Bist
 ===========================================================================================================================================
 
-Salesforce Developer
---------------------
+Full Stack Developer(MERN)
+--------------------------
 
-Hello, everyone! I am a passionate software developer with a focus on Salesforce development. Over the past 6 months, I've immersed myself in the world of coding, honing my skills in various programming languages and diving deep into the Salesforce ecosystem.
+Hello, everyone! I am a passionate full stack developer with a focus on **MERN**. Over the past 1+ year, I have really enjoyed working on **Web Development Projects** covering wide range of domains such as **frontend, backend along with WEB3 development**, honing my skills in various frameworks and libraries like **bootstrap, material UI, React** along with backend systems such as **Node.js, express, JQuery** integrated with both **SQL & NoSQL(MongoDB)** databases, tested with **API** structures using **Postman**. 
 
 * 🌍  I'm based in Gurugram
 * ✉️  You can contact me at [shashankbist1@gmail.com](mailto:shashankbist1@gmail.com)
 * 🚀  I'm currently working on [Recruitment Application](http://shashank01-dev-ed.develop.lightning.force.com/lightning/page/home)
-* 🧠  I'm learning Apex Programming language and JavaScript along with Data Structures and Algorithm.
+* 🧠  I'm learning Node.js and Data Structures on JavaScript.
 * ⚡  There's no such thing as too much horsepower.
 
 ### Skills
