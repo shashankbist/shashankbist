@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer(MERN)
 --------------------------
 
-Hello, everyone! I am a passionate full stack developer with a focus on **MERN**. Over the past 1+ year, I have really enjoyed working on **Web Development Projects** covering wide range of domains such as **frontend, backend along with WEB3 development**, honing my skills in various frameworks and libraries like **bootstrap, material UI, React** along with backend systems such as **Node.js, express, JQuery** integrated with both **SQL & NoSQL(MongoDB)** databases, tested with **API** structures using **Postman**. 
+Hello, everyone! I am a passionate full stack developer with a focus on **MERN**. Over the past 3+ months, I have really enjoyed working on **Web Development Projects** covering wide range of domains such as **frontend, backend along with WEB3 development**, honing my skills in various frameworks and libraries like **bootstrap, material UI, React** along with backend systems such as **Node.js, express, JQuery** integrated with both **SQL & NoSQL(MongoDB)** databases, tested with **API** structures using **Postman**. 
 
 * 🌍  I'm based in Gurugram
 * ✉️  You can contact me at [shashankbist1@gmail.com](mailto:shashankbist1@gmail.com)
-* 🚀  I'm currently working on [Recruitment Application](http://shashank01-dev-ed.develop.lightning.force.com/lightning/page/home)
-* 🧠  I'm learning Node.js and Data Structures on JavaScript.
+* 🚀  I'm currently working on [Keeper App Clone](https://codesandbox.io/u/shashankbist1)
+* 🧠  I'm learning JavaScript along with MongoDb, Express.js, React.js, Node.js.
 * ⚡  There's no such thing as too much horsepower.
 
 ### Skills
@@ -22,4 +22,4 @@ Hello, everyone! I am a passionate full stack developer with a focus on **MERN**
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/shashankbist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shashank-bist1/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/shashankbist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shashank-bist-02b941301/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
