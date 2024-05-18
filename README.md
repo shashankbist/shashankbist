@@ -8,7 +8,7 @@ Hello, everyone! I am a passionate full stack developer with a focus on **MERN**
 
 * 🌍  I'm based in Gurugram
 * ✉️  You can contact me at [shashankbist1@gmail.com](mailto:shashankbist1@gmail.com)
-* 🚀  I'm currently working on [Keeper App Clone](https://codesandbox.io/u/shashankbist1)
+* 🚀  I'm currently working on [Chat-App](https://github.com/shashankbist/chat-app)
 * 🧠  I'm learning JavaScript along with MongoDb, Express.js, React.js, Node.js.
 * ⚡  There's no such thing as too much horsepower.
 
