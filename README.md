@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer(MERN)
 --------------------------
 
-Hello, everyone! I am a passionate full stack developer with a focus on **MERN**. Over the past 3+ months, I have really enjoyed working on **Web Development Projects** covering wide range of domains such as **frontend, backend along with WEB3 development**, honing my skills in various frameworks and libraries like **bootstrap, material UI, React** along with backend systems such as **Node.js, express, JQuery** integrated with both **SQL & NoSQL(MongoDB)** databases, tested with **API** structures using **Postman**. 
+Hello, everyone! I am a passionate full stack developer with a focus on **MERN**. Over the past 1 year, I have really enjoyed working on **Web Development Projects** covering wide range of domains such as **frontend, backend along with WEB3 development**, honing my skills in various frameworks and libraries like **bootstrap, material UI, React** along with backend systems such as **Node.js, express, JQuery** integrated with both **SQL & NoSQL(MongoDB)** databases, tested with **API** structures using **Postman**. 
 
 * 🌍  I'm based in Gurugram
 * ✉️  You can contact me at [shashankbist1@gmail.com](mailto:shashankbist1@gmail.com)
